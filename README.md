@@ -39,6 +39,9 @@
 # 💻 Tech Stack
 
 ## Programming Languages
+C++
+javascript 
+python its libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
@@ -91,6 +94,7 @@
 ---
 
 # 📈 Most Used Languages
+python
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahmad&layout=compact&theme=tokyonight"/>
