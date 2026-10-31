@@ -84,16 +84,17 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+## 🚀 Featured Projects
+
 | Project | Description | Technologies |
 |---|---|---|
-| 📚 AI Research Paper Assistant | Intelligent research document retrieval and analysis | LangChain, Gemini, ChromaDB |
-| 🎥 YouTube RAG Application | Ask questions about YouTube video content | Python, Gemini, Streamlit |
-| 📄 AI ATS Resume Analyzer | Resume analysis and job-description matching | Python, NLP, GenAI |
-| 🤖 LinkedIn Job Search Agent | AI-powered job discovery and ranking | LangGraph, Python |
-| 🌿 Peach Leaf Disease Classification | Vision Transformer-based image classification | PyTorch, ViT |
-| ✋ Hand Gesture Recognition | Real-time hand gesture recognition | OpenCV, MediaPipe |
-
----
+| 🛒 E-Commerce Trend Analysis | Analyzing e-commerce data to identify sales patterns, customer behavior, product performance, and business trends through data visualization. | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| 📚 AI Research Paper Assistant | Intelligent research document retrieval, semantic search, and source-grounded analysis. | LangChain, Gemini, ChromaDB |
+| 🎥 YouTube RAG Application | Ask questions about YouTube video content using Retrieval-Augmented Generation. | Python, Gemini, LangChain, ChromaDB, Streamlit |
+| 📄 AI ATS Resume Analyzer | AI-powered resume analysis and job-description matching. | Python, NLP, Generative AI |
+| 🤖 LinkedIn Job Search Agent | AI-powered job discovery, candidate matching, and job ranking. | Python, LangGraph, Pydantic |
+| 🌿 Peach Leaf Disease Classification | Vision Transformer-based image classification for peach leaf disease detection. | Python, PyTorch, ViT |
+| ✋ Hand Gesture Recognition | Real-time hand gesture recognition using computer vision. | Python, OpenCV, MediaPipe |
 
 <h2 align="center">🏅 Certifications</h2>
 
